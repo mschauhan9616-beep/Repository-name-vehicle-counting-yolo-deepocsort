@@ -1,0 +1,23 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Test videos
+test.mp4
+test2.mp4
+test3.mp4
+
+# Generated videos
+*output*.mp4
+counted_output*.mp4
+
+# Generated test images
+*.jpg
+*.jpeg
+*.png
+
+# Temporary files
+*.tmp
