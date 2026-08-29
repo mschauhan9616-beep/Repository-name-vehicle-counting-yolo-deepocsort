@@ -3,3 +3,4 @@ ultralytics
 opencv-python-headless
 numpy
 dill
+lap>=0.5.12
