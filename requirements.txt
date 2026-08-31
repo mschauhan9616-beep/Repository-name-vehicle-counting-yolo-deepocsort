@@ -1,6 +1,6 @@
 streamlit==1.62.0
-ultralytics
-opencv-python-headless
+ultralytics-opencv-headless
+opencv-python-headless==4.12.0.88
 numpy
 dill
 lap>=0.5.12
